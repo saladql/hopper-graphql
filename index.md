@@ -44,4 +44,3 @@ curl -v --silent -qgk <REDACTED>/graph?runGraph=‘{a a a a a a accessSdkAnonymo
 - a()
 ### More Docs coming soon!
 ---
-<script>alert("hello")</script>
