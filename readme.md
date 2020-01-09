@@ -42,9 +42,6 @@ curl -v --silent -qgk <REDACTED>/graph?runGraph=‘{a a a a a a accessSdkAnonymo
 - apiMobileSdkSettingsBc6f0a261ad73c0d82354e9254a25acc7e889317b0d6a5f7Json()
 - accessSdkAnonymous()
 - a()
+---
 
-
-
-
-
-![Graph](https://github.com/saladql/hopper-graphql/blob/master/2020-01-09.1578613139.png)
+![Data](https://github.com/saladql/hopper-graphql/blob/master/2020-01-09.1578613139.png)
