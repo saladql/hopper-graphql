@@ -43,5 +43,5 @@ curl -v --silent -qgk <REDACTED>/graph?runGraph=‘{a a a a a a accessSdkAnonymo
 - accessSdkAnonymous()
 - a()
 ---
-
+```
 ![Data](https://github.com/saladql/hopper-graphql/blob/master/1578613139.png)
